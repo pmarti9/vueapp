@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "pmarti99 <parkerjmartin883@gmail.com>",
   "license": "MIT",
+  "homepage": "https://pmarti9.github.io/vueapp",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
