@@ -24,7 +24,7 @@ export default {
   name: 'app',
   data () {
     return {
-      msg: 'This is a vue app modified!!'
+      msg: 'Lindsey!!'
     }
   }
 }
